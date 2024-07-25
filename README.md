@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi i am aditya 19y.o software dev<br>i am currently studying<br>from india  
+hi i am aditya 18y.o software dev<br>i am currently studying<br>from india  
 
 
 ## 🌐 Socials:
